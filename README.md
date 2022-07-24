@@ -8,6 +8,7 @@ July 24,2022
 explore-US-bikeshare-data
 
 ### Description
+(1) General information
 In this project I am going to refactor my previous bikeshare project using Git.
 I forked the current Udacity repository to get my own copy of a template for this project,
 so that I have a remote repository in my Github account.
@@ -17,6 +18,8 @@ from version control tracking.
 I will create and work on two branches.
 Finally I will merge both branches to the master branch
 and put it back to the remote repository in my Github account.
+
+(2) Delete unnecessary comment from Line 125 to 134
 
 ### Files used
 Bikeshare_george.py
