@@ -21,6 +21,8 @@ and put it back to the remote repository in my Github account.
 
 (2) Delete unnecessary comment from Line 125 to 134
 
+(3) Change the string variable "city_list" to "cityList" twice at Lines 17 and 19
+
 ### Files used
 Bikeshare_george.py
 The three city data files include washinton.csv, chicago.csv and new_york_city.csv.
