@@ -23,6 +23,8 @@ and put it back to the remote repository in my Github account.
 
 (3) Change the string variable "city_list" to "cityList" twice at Lines 17 and 19
 
+(4) Add comment "Create a while loop to ask user to select a city" at Line 13
+
 ### Files used
 Bikeshare_george.py
 The three city data files include washinton.csv, chicago.csv and new_york_city.csv.
